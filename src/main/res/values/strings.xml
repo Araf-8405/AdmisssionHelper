@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Admisssion Helper</string>
+    <string name="button_text1">MBBS Apply</string>
+    <string name="button_text2">All Agricultural Universities Apply (B.Sc)</string>
+    <string name="button_text3">All Public Universities Undergraduate Apply (Bachelor)</string>
+    <string name="button_text4">All Engineering and Technology Universities Apply (B.Sc)</string>
+    <string name="button_text5">All Science and Technology Universities Apply (B.Sc)</string>
+    <string name="button_text6">XI Admission Apply </string>
+    <string name="button_text7">Next</string>
+    <string name="button_text8">University of Dhaka</string>
+    <string name="button_text9">Jahangirnagar University</string>
+    <string name="button_text10">Jagannath University</string>
+    <string name="button_text11">Chattagram University</string>
+    <string name="textview1_text">Abdullah Al Mamun</string>
+    <string name="textview2_text">BSc in CSE</string>
+    <string name="textview3_text">Daffodil International University</string>
+    <string name="textview4_text">Id:163-15-8405</string>
+</resources>
+
+
